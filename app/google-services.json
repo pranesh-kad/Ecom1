@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "352532727827",
+    "firebase_url": "https://ecom-c25ff.firebaseio.com",
+    "project_id": "ecom-c25ff",
+    "storage_bucket": "ecom-c25ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352532727827:android:7f15581cef3ab76c9c17e6",
+        "android_client_info": {
+          "package_name": "com.example.ecom1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352532727827-44lvia75g0o527b101f5bn1bcrvdnapn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom1",
+            "certificate_hash": "4c1875bc26c29991ad3917b81ae9884c2b1019cc"
+          }
+        },
+        {
+          "client_id": "352532727827-m831qj2avchtk9g0rmse1iqgakm73cf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JAY8eZIT-Oq4a0guZBqUv1jZ5pZX_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352532727827-m831qj2avchtk9g0rmse1iqgakm73cf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352532727827:android:c614a22778adac939c17e6",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352532727827-m831qj2avchtk9g0rmse1iqgakm73cf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JAY8eZIT-Oq4a0guZBqUv1jZ5pZX_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352532727827-m831qj2avchtk9g0rmse1iqgakm73cf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
